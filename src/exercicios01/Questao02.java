@@ -3,6 +3,7 @@ package exercicios01;
 import java.util.Scanner;
 
 class Questao02 {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

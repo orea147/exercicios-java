@@ -1,6 +1,7 @@
 package exercicios01;
 
 public class Questao01 {
+
     public static void main( String args[] ) {
         int i = 5;
         int j = i;
